@@ -3,5 +3,5 @@ Want to know which employee has the probability of leaving the company? Check ou
 
 
 ## ML Algorithms used with its accuracy score : 
-- Decision Tree Classifier  - 93.71%
-- KNN Algorithm  - 96.50%
+- Decision Tree Classifier  - 97.42%
+- KNN Algorithm  - 96.04%
