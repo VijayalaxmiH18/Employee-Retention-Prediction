@@ -2,7 +2,7 @@
 Want to know which employee has the probability of leaving the company? Check out this ML model which gives best prediction.
 
 
-## Desciption : 
+## Description : 
 - Dataset is collected from kaggle.com
 - Data Cleaning, Data Visualization, EDA and model is built to predict Employee Retention from a company
 - Algorithms applied :
